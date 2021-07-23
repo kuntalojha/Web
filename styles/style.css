@@ -4,7 +4,8 @@ body{
 .home{
     height: 100vh;
     background: linear-gradient(rgba(223, 205, 205, 0.1),rgba(0,0,0,.1)),url('../images/Ku.jpeg'); 
-    background-size: cover;   
+    background-size: cover;  
+    padding: relative; 
 }
 .intro{
     color: whitesmoke;
