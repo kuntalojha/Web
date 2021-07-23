@@ -1,0 +1,135 @@
+body{
+    background-color:#34306C;
+}
+.home{
+    height: 100vh;
+    background: linear-gradient(rgba(223, 205, 205, 0.1),rgba(0,0,0,.1)),url('../images/Ku.jpeg'); 
+    background-size: cover;   
+}
+.intro{
+    color: whitesmoke;
+    padding: 10% 20%;
+    text-align:justify;
+    font-size:20px ;
+}
+.name{
+    font-size: 4em;
+    font-weight: 500;
+}
+.pragraph{
+    background: linear-gradient(rgba(0, 5, 8, 0.8),rgba(14, 226, 233, 0.1));    
+}
+.card{
+    background-color: #88b6b5;
+}
+.mb-3{
+    background: linear-gradient(rgba(223, 205, 205, 0.1),rgba(0,0,0,.1));    
+}
+
+.H{
+    color: white;
+    margin-left: 20%;
+    padding-top: 20%;
+}
+/* Add My skills css 
+.wrapper{
+    height: 100vh;
+    color: #fff;
+    font-family: poppins;
+}
+
+.wrapper{
+    width: 1170px;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 28px;
+    padding: 30px 0 30px;
+}
+.wrapper h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 15%;
+    text-align: left;
+}
+.wrapper img{
+    width: 80%;
+}
+.img-area{
+    width: 25%;
+    float: left;
+}
+.skils-area{
+    width: 55%;
+    position: relative;
+    float: right;
+    margin-top: 110px;
+}
+
+.line{
+    height: 5px;
+    margin-left: 10%;
+    margin-right: 50%;
+    background: darkorange;
+    position:absolute;
+}
+.box1{
+    width: 90%;
+    animation: box1 2s ease-out;
+}
+.box2{
+    width: 90%;
+    animation: box2 2s ease-out;
+}
+.box3{
+    width: 90%;
+    animation: box3 2s ease-out;
+}.box4{
+    width: 90%;
+    animation: box4 2s ease-out;
+}
+.box5{
+    width: 90%;
+    animation: box5 2s ease-out;
+}
+
+@keyframes box1{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes box2{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes box3{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes box4{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+@keyframes box5{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 90%;
+    }
+}
+*/
